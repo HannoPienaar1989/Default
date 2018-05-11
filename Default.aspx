@@ -1,4 +1,6 @@
-﻿<!DOCTYPE html>
+<%@ Page Title="Log in" Language="C#" MasterPageFile="" AutoEventWireup="true"  Inherits="WebApplication1.Default" Async="true" %>
+
+<!DOCTYPE html>
 <html lang="en" class="no-js">
 	<head>
 		<meta charset="UTF-8" />
